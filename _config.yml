@@ -1,0 +1,21 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-cayman
+title: "N14 Mini Cooper S R56 Documentation"
+description: "Complete South Africa specific guide for 2008 Mini Cooper S with N14 engine"
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# Relative links configuration
+relative_links:
+  enabled: true
+  collections: false
