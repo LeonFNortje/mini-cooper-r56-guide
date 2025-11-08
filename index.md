@@ -330,6 +330,20 @@ flowchart LR
 
 ---
 
+## 📸 Visual Resources
+
+**[View N14 Component Images & Photos →](IMAGE-RESOURCES.md)**
+
+Comprehensive collection of:
+- Timing chain tensioner failure photos
+- HPFP location and teardown images
+- Carbon buildup before/after walnut blasting
+- Vacuum pump failure examples
+- Engine bay component locations
+- Links to 100+ technical photos from Pelican Parts, FCP Euro, and more
+
+---
+
 ## 🔗 External Resources
 
 **Forums:**

@@ -129,6 +129,11 @@
 **Prevention:**
 - Replace at 80-160k km preventatively
 
+**📸 Visual Reference:**
+- [Pelican Parts: Vacuum Pump Testing](https://www.pelicanparts.com/techarticles/MINI_R56/140-ENGINE-Vacuum_Pump_Testing/140-ENGINE-Vacuum_Pump_Testing.htm) - Location and testing procedures with photos
+- [Pelican Parts: Vacuum Pump Replacement](https://www.pelicanparts.com/techarticles/MINI_R56/43-ENGINE-Vacuum_Pump_Replacement/43-ENGINE-Vacuum_Pump_Replacement.htm) - Step-by-step removal with detailed images
+- [RKX Tech: N14 Vacuum Pump Rebuild Guide](https://www.rkxtech.com/blogs/news/how-to-rebuild-the-mini-cooper-1-6l-vacuum-pump-found-on-the-n12-and-n14-engines) - Internal component photos and rebuild process
+
 ---
 
 ### 8. **Thermostat Housing**

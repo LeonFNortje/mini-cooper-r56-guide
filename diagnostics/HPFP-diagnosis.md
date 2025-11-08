@@ -4,6 +4,13 @@
 
 The HPFP is a **common failure point** on N14 engines. It's cam-driven and provides fuel at extremely high pressure (200-2,200 PSI) for the direct injection system.
 
+### 📸 Visual Reference - HPFP Location & Components
+
+**See detailed images:**
+- [FCP Euro: N14 HPFP Symptoms & Product Review](https://www.fcpeuro.com/blog/mini-cooper-n14-high-pressure-fuel-pump-hpfp-symptoms-product-review) - HPFP location, teardown images, and failure examples
+- [Pelican Parts: R56 Vacuum Pump Replacement](https://www.pelicanparts.com/techarticles/MINI_R56/43-ENGINE-Vacuum_Pump_Replacement/43-ENGINE-Vacuum_Pump_Replacement.htm) - Shows HPFP location during vacuum pump work
+- [Detroit Tuned: N14 HPFP Remanufactured](https://www.detroittuned.com/mini-cooper-s-n14-hpfp/) - Component identification photos
+
 ---
 
 ## Symptoms of HPFP Failure

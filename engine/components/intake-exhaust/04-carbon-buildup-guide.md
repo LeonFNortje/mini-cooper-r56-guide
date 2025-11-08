@@ -24,6 +24,13 @@
 
 ## What Is Carbon Buildup?
 
+### 📸 Visual Reference - See What Carbon Buildup Looks Like
+
+**Before & After Walnut Blasting Images:**
+- [Pelican Parts: R56 Carbon Cleaning Guide](https://www.pelicanparts.com/techarticles/MINI_R56/88-ENGINE-Turbocharged_Engine_Carbon_Cleaning/88-ENGINE-Turbocharged_Engine_Carbon_Cleaning.htm) - Comprehensive before/after photos showing valve condition
+- [Auto Regen Bristol: Mini Walnut Blast Cleaning](https://www.autoregen.co.uk/mini-walnut-blast-carbon-cleaning-bristol) - Before/after from 2008 R56 with 80k miles
+- [EuroSport Tuning: N14/N18 Walnut Blasting Kit](https://eurosporttuning.com/mini-direct-inject-carbon-cleaning-n14-n18-walnut-blasting-kit/) - Equipment and process photos
+
 ### The Problem Explained:
 
 **Traditional Port Injection (Old Engines):**

@@ -35,6 +35,13 @@ This is the **#1 most serious problem** with the N14 engine (2007-2010). If you 
 
 The N14 (2007-2010) uses a hydraulic timing chain tensioner that is **known to fail prematurely**.
 
+### 📸 Visual Reference - See What It Looks Like
+
+**Detailed images and repair procedures:**
+- [Pelican Parts: N14 Timing Chain Guide Replacement](https://www.pelicanparts.com/techarticles/MINI_R56/90-ENGINE-Turbocharged_Engine_Timing_Chain_Guides_Replacement/90-ENGINE-Turbocharged_Engine_Timing_Chain_Guides_Replacement.htm) - 50+ step-by-step photos showing tensioner location, chain guides, and replacement
+- [Atlantic Motorcar: Timing Chain Failure Case Study](https://atlanticmotorcar.com/casestudies/2007-mini-cooper-s-timing-chain-and-guide-replacement-and-update/) - Real-world failure examples with before/after photos
+- [FCP Euro: Complete Timing Chain Assembly Replacement](https://www.fcpeuro.com/blog/how-to-replace-a-mini-r56-timing-chain-assembly) - Component identification and installation images
+
 **Failure Mechanism:**
 1. Tensioner loses hydraulic pressure
 2. Chain becomes loose
