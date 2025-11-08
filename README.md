@@ -17,6 +17,32 @@ This comprehensive documentation covers all major systems, components, and diagn
 
 ## ⚠️ CRITICAL N14 ENGINE ISSUES
 
+### **Quick Visual Diagnosis:**
+
+```mermaid
+flowchart LR
+    A[Engine Problem] --> B{Noise?}
+    A --> C{Won't Start?}
+    A --> D{Leak?}
+
+    B -->|Death Rattle| E[⚠️ Timing Chain<br/>R12-25k]
+    B -->|Hissing 4000+ RPM| F[⚠️ Boost Leak<br/>URGENT]
+
+    C -->|Cranks, No Start| G[HPFP Failure<br/>R6-12k]
+    C -->|Hard Starting| G
+
+    D -->|Coolant Left| H[Thermostat<br/>R1.5-3.5k]
+    D -->|Oil Top| I[Valve Cover<br/>R1-3k]
+
+    style E fill:#ff6b6b,color:#fff
+    style F fill:#ff6b6b,color:#fff
+    style G fill:#ffd43b
+```
+
+**[📊 See Full Interactive Diagrams →](diagnostics/DIAGNOSTIC-FLOWCHART-VISUAL.md)**
+
+---
+
 ### **Top 3 Problems You MUST Know:**
 
 1. **⚠️ TIMING CHAIN TENSIONER FAILURE ("Death Rattle")**
@@ -98,8 +124,11 @@ This comprehensive documentation covers all major systems, components, and diagn
 ## 🔍 Diagnostic Guides
 
 ### **Start Here:**
-### [🎯 MASTER DIAGNOSTIC FLOWCHART](diagnostics/MASTER-DIAGNOSTIC-FLOWCHART.md)
-**Main entry point for all diagnostics** - Use symptoms to find the right diagnostic guide
+### [🎯 VISUAL DIAGNOSTIC FLOWCHARTS](diagnostics/DIAGNOSTIC-FLOWCHART-VISUAL.md) ⭐ **NEW!**
+**Interactive diagrams with visual decision trees** - Click through to diagnose problems visually!
+
+### [📋 MASTER DIAGNOSTIC FLOWCHART](diagnostics/MASTER-DIAGNOSTIC-FLOWCHART.md)
+**Text-based diagnostic guide** - Comprehensive problem diagnosis
 
 ---
 
