@@ -25,7 +25,7 @@ This comprehensive documentation covers all major systems, components, and diagn
 ### **Quick Visual Diagnosis:**
 
 ```mermaid
-flowchart LR
+graph LR
     A[Engine Problem] --> B{Noise?}
     A --> C{Won't Start?}
     A --> D{Leak?}

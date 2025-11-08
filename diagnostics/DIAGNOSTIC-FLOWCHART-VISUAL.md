@@ -11,7 +11,7 @@ mermaid: true
 ## 🚨 Critical Symptoms Flowchart
 
 ```mermaid
-flowchart TD
+graph TD
     Start([Engine Problem?]) --> Noise{Noise Type?}
     Start --> Performance{Performance Issue?}
     Start --> Leak{Fluid Leak?}
@@ -50,7 +50,7 @@ flowchart TD
 ## 🔧 Timing Chain Decision Tree
 
 ```mermaid
-flowchart TD
+graph TD
     Start([Cold Start Engine]) --> Listen{Hear Rattling?}
 
     Listen -->|No Rattle| Good[✅ Timing Chain OK<br/>Continue Monitoring]
@@ -84,7 +84,7 @@ flowchart TD
 ## 🔍 Oil Pressure Monitoring (Post-Crankshaft Work)
 
 ```mermaid
-flowchart TD
+graph TD
     Start([Install Mechanical<br/>Oil Pressure Gauge]) --> WarmUp[Warm Engine<br/>to 80-90°C]
 
     WarmUp --> IdleCheck{Idle Pressure?}
@@ -149,7 +149,7 @@ gantt
 ## 🔄 Carbon Buildup Progression
 
 ```mermaid
-flowchart LR
+graph LR
     Start([New Engine]) -->|0-24k km| Stage1[Light Deposits<br/>No Symptoms]
     Stage1 -->|24-48k km| Stage2[Moderate Buildup<br/>Slight Rough Idle]
     Stage2 -->|48-80k km| Stage3[Severe Buildup<br/>Power Loss]
@@ -177,7 +177,7 @@ flowchart LR
 ## 🌡️ Overheating Diagnosis Tree
 
 ```mermaid
-flowchart TD
+graph TD
     Start([Engine Overheating]) --> Coolant{Coolant Level?}
 
     Coolant -->|Low/Empty| LeakCheck{Visible Leak?}
@@ -208,7 +208,7 @@ flowchart TD
 ## 💨 Boost System Diagnosis
 
 ```mermaid
-flowchart TD
+graph TD
     Start([Low Boost/Power Loss]) --> Code{Check OBD Codes}
 
     Code -->|P0234 Overboost| Wastegate[Wastegate Stuck<br/>or N75 Valve<br/>R1.5-4k]

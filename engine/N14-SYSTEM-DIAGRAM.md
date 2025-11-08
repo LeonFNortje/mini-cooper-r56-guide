@@ -205,7 +205,7 @@ sequenceDiagram
 ## 🛢️ Oil System Flow & Pressure Points
 
 ```mermaid
-flowchart TD
+graph TD
     Start[Oil Pan<br/>~5 Liters] --> Pickup[Pickup Screen<br/>⚠️ Can Clog]
     Pickup --> Pump[Oil Pump<br/>Driven by Crankshaft]
 
@@ -283,7 +283,7 @@ gantt
 ## 🌡️ Cooling System Circuit
 
 ```mermaid
-flowchart TD
+graph TD
     Start[Engine Block<br/>Coolant Passages] --> Head[Cylinder Head<br/>Around Combustion<br/>Chambers]
 
     Head --> Hot{Temperature?}
