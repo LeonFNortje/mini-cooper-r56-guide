@@ -442,6 +442,19 @@ mini-cooper-r56/
 
 ---
 
+## 📚 Additional Documentation Resources
+
+### Project Documentation & Setup Guides
+- **[GitHub Pages Setup Guide](GITHUB-PAGES-SETUP.md)** - Instructions for deploying this documentation
+- **[Project Work Summary](COMPLETE-WORK-SUMMARY.md)** - Complete overview of documentation created
+- **[New Diagnostics Summary](NEW-DIAGNOSTICS-SUMMARY.md)** - Summary of diagnostic guides added
+- **[Post-Major-Repair Summary (SA)](POST-MAJOR-REPAIR-SUMMARY-SA.md)** - Overview of post-repair guides
+
+### For Contributors
+These files provide context about the documentation project itself, deployment instructions, and summaries of work completed. They are meta-documentation about this repository rather than technical R56 content.
+
+---
+
 ## 🙏 Disclaimer
 
 This documentation is provided for informational purposes. Always verify information with professional mechanics and official service documentation. The author is not responsible for any damage or injury resulting from use of this information.
