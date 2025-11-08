@@ -92,7 +92,7 @@ graph TB
 ## 🔄 Timing Chain System (Critical Detail)
 
 ```mermaid
-graph TD
+flowchart TD
     subgraph Crankshaft_Drive[Crankshaft Power]
         Combustion[Combustion<br/>Force] --> Pistons[4 Pistons]
         Pistons --> Crank[Crankshaft<br/>Rotation]
@@ -205,7 +205,7 @@ sequenceDiagram
 ## 🛢️ Oil System Flow & Pressure Points
 
 ```mermaid
-graph TD
+flowchart TD
     Start[Oil Pan<br/>~5 Liters] --> Pickup[Pickup Screen<br/>⚠️ Can Clog]
     Pickup --> Pump[Oil Pump<br/>Driven by Crankshaft]
 
@@ -283,7 +283,7 @@ gantt
 ## 🌡️ Cooling System Circuit
 
 ```mermaid
-graph TD
+flowchart TD
     Start[Engine Block<br/>Coolant Passages] --> Head[Cylinder Head<br/>Around Combustion<br/>Chambers]
 
     Head --> Hot{Temperature?}
