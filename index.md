@@ -399,7 +399,7 @@ graph LR
 **Document Structure:**
 ```
 mini-cooper-r56/
-├── README.md (this file)
+├── index.md (this file - main landing page)
 ├── engine/
 │   └── N14-engine-components.md
 ├── turbo-system/

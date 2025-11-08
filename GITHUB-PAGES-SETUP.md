@@ -127,10 +127,9 @@ Your documentation now includes:
 
 ```
 mini-cooper-r56/
-├── README.md (main entry point)
-├── _config.yml (Jekyll configuration)
-├── _layouts/
-│   └── default.html (Mermaid.js support)
+├── index.md (main entry point / landing page)
+├── _config.yml (Jekyll configuration with TeXt theme)
+├── Gemfile (dependencies)
 ├── diagnostics/
 │   ├── DIAGNOSTIC-FLOWCHART-VISUAL.md (9 diagrams)
 │   ├── MASTER-DIAGNOSTIC-FLOWCHART.md
