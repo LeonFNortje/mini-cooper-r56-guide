@@ -14,6 +14,7 @@ The documentation includes:
 - ✅ **30+ comprehensive guides** covering all major systems
 - ✅ **South Africa localized** (Rand pricing, kilometers, local suppliers)
 - ✅ **Mobile-optimized** for use while working on your car
+- 💰 **All prices in Rand (R)** - Converted from USD at R18/USD (2025 average rate)
 
 ### 🔍 Quick Access
 

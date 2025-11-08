@@ -163,9 +163,9 @@ The boost system on the N14 Mini Cooper S is complex and has several common fail
 **Failed:** No click or doesn't operate
 
 ### Repair:
-- Wastegate actuator: $100-200 + labor
-- Boost solenoid: $50-150 + labor
-- If wastegate in turbo stuck: Turbo replacement $800-1,500
+- Wastegate actuator: R1,800-3,600 + labor
+- Boost solenoid: R900-2,700 + labor
+- If wastegate in turbo stuck: Turbo replacement R14,400-27,000
 
 ---
 
@@ -262,12 +262,12 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 - Visual confirmation
 - Can pinpoint exact location
 
-**Cost:** $50-100 at shop, or DIY with cigar/vape method
+**Cost:** R900-1,800 at shop, or DIY with cigar/vape method
 
 **Method 4: Pressure Test**
 
 **Equipment:**
-- Boost leak tester kit ($50-150)
+- Boost leak tester kit (R900-2,700)
 - Air compressor
 
 **Procedure:**
@@ -529,23 +529,23 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 
 | Repair | DIY Parts | Shop Labor | Total (Shop) |
 |--------|-----------|------------|--------------|
-| Bypass valve replacement | $80-150 | $100-200 | $180-350 |
-| Single hose replacement | $30-100 | $100-150 | $130-250 |
-| Multiple hoses | $150-300 | $200-400 | $350-700 |
-| Complete silicone hose kit | $300-600 | $400-600 | $700-1,200 |
-| Intercooler replacement | $200-400 | $200-300 | $400-700 |
-| Wastegate actuator | $100-200 | $200-400 | $300-600 |
-| Boost control solenoid | $50-150 | $100-200 | $150-350 |
-| Turbocharger replacement | $800-1,500 | $500-800 | $1,300-2,300 |
+| Bypass valve replacement | R1,440-2,700 | R1,800-3,600 | R3,240-6,300 |
+| Single hose replacement | R540-1,800 | R1,800-2,700 | R2,340-4,500 |
+| Multiple hoses | R2,700-5,400 | R3,600-7,200 | R6,300-12,600 |
+| Complete silicone hose kit | R5,400-10,800 | R7,200-10,800 | R12,600-21,600 |
+| Intercooler replacement | R3,600-7,200 | R3,600-5,400 | R7,200-12,600 |
+| Wastegate actuator | R1,800-3,600 | R3,600-7,200 | R5,400-10,800 |
+| Boost control solenoid | R900-2,700 | R1,800-3,600 | R2,700-6,300 |
+| Turbocharger replacement | R14,400-27,000 | R9,000-14,400 | R23,400-41,400 |
 
 ### Preventative Maintenance Costs:
 
 | Service | Cost | Frequency |
 |---------|------|-----------|
-| Bypass valve replacement | $150-300 | Every 50-96k km |
-| Silicone hose upgrade | $500-800 | Once (lifetime upgrade) |
-| Boost leak smoke test | $50-100 | Annually or as needed |
-| Boost pressure test | $50-100 | With any performance issue |
+| Bypass valve replacement | R2,700-5,400 | Every 50-96k km |
+| Silicone hose upgrade | R9,000-14,400 | Once (lifetime upgrade) |
+| Boost leak smoke test | R900-1,800 | Annually or as needed |
+| Boost pressure test | R900-1,800 | With any performance issue |
 
 ---
 
@@ -553,46 +553,46 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 
 ### Stage 1: Reliability Upgrades (Recommended for all N14)
 
-**1. Upgraded Bypass Valve** ($150-250)
+**1. Upgraded Bypass Valve** (R2,700-4,500)
 - GFB DV+ (metal diaphragm)
 - Forge Motorsport valve
 - Turbosmart valve
 - **Why:** Prevents common failure
 
-**2. Silicone Intercooler Hoses** ($300-600)
+**2. Silicone Intercooler Hoses** (R5,400-10,800)
 - Full kit replacement
 - Much more durable than stock plastic/rubber
 - **Why:** Prevents splits and failures
 
-**3. Heavy Duty Clamps** ($30-60)
+**3. Heavy Duty Clamps** (R540-1,080)
 - T-bolt clamps
 - Spring clamps
 - **Why:** Prevents leaks at connections
 
-**Total Stage 1 Cost:** $500-900
+**Total Stage 1 Cost:** R9,000-16,200
 **Benefit:** Eliminates most common boost failures
 
 ### Stage 2: Performance Upgrades
 
-**1. Larger Intercooler** ($400-800)
+**1. Larger Intercooler** (R7,200-14,400)
 - Lower intake temps
 - More consistent boost
 - Supports more power
 
-**2. Intake Upgrade** ($200-400)
+**2. Intake Upgrade** (R3,600-7,200)
 - Better airflow
 - Supports tuning
 
-**3. Turbo Inlet Pipe** ($150-300)
+**3. Turbo Inlet Pipe** (R2,700-5,400)
 - Less restriction
 - Better spool
 
-**4. ECU Tune** ($400-800)
+**4. ECU Tune** (R7,200-14,400)
 - Increases boost to 20-22 PSI
 - More power (190-210 HP)
 - **Requires:** All Stage 1 upgrades
 
-**Total Stage 2 Cost:** $1,150-2,300
+**Total Stage 2 Cost:** R20,700-41,400
 
 ---
 
@@ -664,9 +664,9 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 7. Upgrading to quality parts prevents repeat failures
 
 **Best Preventative Investment:**
-- Upgraded bypass valve: $150-250
-- Silicone hose kit: $300-600
-- **Total:** $450-850 prevents 90% of boost failures
+- Upgraded bypass valve: R2,700-4,500
+- Silicone hose kit: R5,400-10,800
+- **Total:** R8,100-15,300 prevents 90% of boost failures
 
 **Warning Signs - Don't Ignore:**
 - ⚠️ Any hissing sound

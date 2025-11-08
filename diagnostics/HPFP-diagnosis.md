@@ -180,7 +180,7 @@ LONG CRANK / HARD START?
 ## Repair Options
 
 ### Option 1: Replace HPFP Only
-**Cost:** $600-1,200 (parts + labor)
+**Cost:** R10,800-21,600 (parts + labor)
 **Labor:** 2-3 hours
 **Parts:** HPFP only
 
@@ -191,7 +191,7 @@ LONG CRANK / HARD START?
 ---
 
 ### Option 2: HPFP + Clean Fuel System
-**Cost:** $800-1,500
+**Cost:** R14,400-27,000
 **Additional work:**
 - Clean fuel rail
 - Inspect/replace injectors if contaminated
@@ -208,11 +208,11 @@ LONG CRANK / HARD START?
 
 ### OEM HPFP:
 **Part Number:** 13517588879 (Bosch)
-**Cost:** $400-600
+**Cost:** R7,200-10,800
 
 ### Aftermarket:
 **Brands:** Bosch, Hitachi
-**Cost:** $200-400
+**Cost:** R3,600-7,200
 
 **Note:** Use OEM or quality aftermarket only
 - Cheap pumps fail quickly
@@ -326,7 +326,7 @@ LONG CRANK / HARD START?
 - Warranty on work
 - Faster completion
 
-**Cost:** $600-1,200 total
+**Cost:** R10,800-21,600 total
 
 ---
 

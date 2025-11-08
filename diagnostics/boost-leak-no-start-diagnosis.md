@@ -79,7 +79,7 @@ The rubber diaphragm inside the bypass valve tears completely, causing massive b
 
 ### Repair:
 **Parts needed:**
-- New bypass valve (OEM: 11657600890) - $80-150
+- New bypass valve (OEM: 11657600890) - R1,440-2,700
 - Upgraded options: GFB DV+, Forge Motorsport
 
 **Labor:** 1-2 hours
@@ -89,7 +89,7 @@ The rubber diaphragm inside the bypass valve tears completely, causing massive b
 - Clean intake system of debris
 - Check MAF sensor
 
-**Cost:** $100-300 (valve only) or $1,000-2,000 (if turbo damaged)
+**Cost:** R1,800-5,400 (valve only) or R18,000-36,000 (if turbo damaged)
 
 ---
 
@@ -147,12 +147,12 @@ Check these common failure points:
 
 ### Repair:
 **Parts needed:**
-- Replacement hose(s): $50-200 each
-- Heavy duty clamps: $10-30
-- Upgrade to silicone hoses: $300-600 (full kit)
+- Replacement hose(s): R900-3,600 each
+- Heavy duty clamps: R180-540
+- Upgrade to silicone hoses: R5,400-10,800 (full kit)
 
 **If turbo damaged:**
-- Turbo replacement: $800-1,500
+- Turbo replacement: R14,400-27,000
 - Labor: 4-6 hours additional
 
 **Prevention:**
@@ -160,7 +160,7 @@ Check these common failure points:
 - Check clamps regularly
 - Don't run high boost on stock hoses
 
-**Cost:** $100-400 (hoses only) or $1,500-2,500 (with turbo damage)
+**Cost:** R1,800-7,200 (hoses only) or R27,000-45,000 (with turbo damage)
 
 ---
 
@@ -219,7 +219,7 @@ The wastegate (which regulates boost pressure) sticks in the open position or th
 **Options:**
 
 1. **Wastegate Actuator Replacement**
-   - Parts: $100-200
+   - Parts: R1,800-3,600
    - Labor: 2-3 hours
    - May require turbo removal
 
@@ -229,10 +229,10 @@ The wastegate (which regulates boost pressure) sticks in the open position or th
 
 3. **Turbo Replacement**
    - If wastegate mechanism in turbo is worn
-   - Complete turbo: $800-1,500
+   - Complete turbo: R14,400-27,000
    - Labor: 4-6 hours
 
-**Cost:** $150-300 (actuator) or $1,200-2,000 (turbo replacement)
+**Cost:** R2,700-5,400 (actuator) or R21,600-36,000 (turbo replacement)
 
 ---
 
@@ -315,9 +315,9 @@ The turbo compressor wheel is damaged by foreign object debris (FOD), or bearing
 **Turbocharger replacement required**
 
 **Parts:**
-- New turbo: $800-1,500
-- Gaskets and hardware: $50-100
-- Oil and filter: $60-80
+- New turbo: R14,400-27,000
+- Gaskets and hardware: R900-1,800
+- Oil and filter: R1,080-1,440
 
 **Labor:** 4-6 hours
 
@@ -333,7 +333,7 @@ The turbo compressor wheel is damaged by foreign object debris (FOD), or bearing
 - Possible piston damage
 - Could require engine rebuild
 
-**Cost:** $1,200-2,000 (turbo only) or $3,000-8,000+ (if engine damaged)
+**Cost:** R21,600-36,000 (turbo only) or R54,000-144,000+ (if engine damaged)
 
 ---
 
@@ -382,10 +382,10 @@ The N75 boost control solenoid (electronic valve) fails, preventing proper waste
 ### Repair:
 **Boost control solenoid replacement**
 
-**Parts:** $50-150
+**Parts:** R900-2,700
 **Labor:** 1-2 hours
 
-**Cost:** $100-300
+**Cost:** R1,800-5,400
 
 ---
 
@@ -418,7 +418,7 @@ One failure leads to another. Most commonly:
 ### Repair:
 **Requires comprehensive assessment**
 - May need turbo + hoses + sensors
-- Cost: $1,500-3,000+
+- Cost: R27,000-54,000+
 
 ---
 
@@ -576,13 +576,13 @@ When boost system fails catastrophically, the ECU detects:
 
 | Issue | Parts | Labor | Total |
 |-------|-------|-------|-------|
-| Bypass valve only | $80-150 | $100-200 | $180-350 |
-| Intercooler hose(s) | $50-200 | $100-200 | $150-400 |
-| Wastegate actuator | $100-200 | $150-300 | $250-500 |
-| Boost control solenoid | $50-150 | $100-200 | $150-350 |
-| Turbo replacement | $800-1,500 | $400-600 | $1,200-2,100 |
-| Turbo + hoses + valve | $1,000-2,000 | $500-800 | $1,500-2,800 |
-| Turbo + engine damage | $3,000-6,000 | $2,000-4,000 | $5,000-10,000+ |
+| Bypass valve only | R1,440-2,700 | R1,800-3,600 | R3,240-6,300 |
+| Intercooler hose(s) | R900-3,600 | R1,800-3,600 | R2,700-7,200 |
+| Wastegate actuator | R1,800-3,600 | R2,700-5,400 | R4,500-9,000 |
+| Boost control solenoid | R900-2,700 | R1,800-3,600 | R2,700-6,300 |
+| Turbo replacement | R14,400-27,000 | R7,200-10,800 | R21,600-37,800 |
+| Turbo + hoses + valve | R18,000-36,000 | R9,000-14,400 | R27,000-50,400 |
+| Turbo + engine damage | R54,000-108,000 | R36,000-72,000 | R90,000-180,000+ |
 
 ---
 
@@ -592,28 +592,28 @@ When boost system fails catastrophically, the ECU detects:
 **Symptoms:** Hissing at 4k RPM, loss of power, limp mode, won't start
 **Diagnosis:** Torn diaphragm in bypass valve
 **Repair:** Replaced valve, cleared codes
-**Cost:** $250
+**Cost:** R4,500
 **Outcome:** ✓ Fixed, no other damage
 
 ### Scenario 2: Intercooler Hose Blowout
 **Symptoms:** Loud bang, massive hissing, black smoke, died on highway, won't start
 **Diagnosis:** Turbo outlet hose split completely, piece sucked into compressor
 **Repair:** New hose, turbocharger replacement, intercooler cleaning
-**Cost:** $1,800
+**Cost:** R32,400
 **Outcome:** ✓ Fixed but expensive
 
 ### Scenario 3: Turbo Bearing Failure
 **Symptoms:** Whining for weeks, suddenly grinding, air noise, blue smoke, died, won't start
 **Diagnosis:** Turbo seized from bearing failure
 **Repair:** Turbo replacement, oil change, intake cleaning
-**Cost:** $1,500
+**Cost:** R27,000
 **Outcome:** ✓ Fixed, should have acted on whining sound earlier
 
 ### Scenario 4: Cascade Failure (Worst Case)
 **Symptoms:** Hissing, power loss, kept driving, grinding, smoke, died, won't start
 **Diagnosis:** Bypass valve failed → continued driving → turbo oversped → bearing failure → compressor wheel broke → pieces entered engine → valve damage
 **Repair:** Turbo, cylinder head work, valve replacement
-**Cost:** $4,500
+**Cost:** R81,000
 **Outcome:** ✓ Fixed but very expensive, preventable if stopped immediately
 
 ---
@@ -655,9 +655,9 @@ When boost system fails catastrophically, the ECU detects:
 - 10% chance: Other boost system failure
 
 **Expected Cost:**
-- Best case: $150-400 (valve or hose)
-- Most likely: $300-800 (valve + hoses + labor)
-- Worst case: $1,500-10,000 (turbo and engine damage)
+- Best case: R2,700-7,200 (valve or hose)
+- Most likely: R5,400-14,400 (valve + hoses + labor)
+- Worst case: R27,000-180,000 (turbo and engine damage)
 
 **Key Takeaway:**
 **This symptom pattern requires immediate attention. The "won't start" occurs when the ECU enters protection mode or when mechanical damage prevents operation. Early intervention (stopping at first sign of hissing) can save thousands of dollars in repairs.**

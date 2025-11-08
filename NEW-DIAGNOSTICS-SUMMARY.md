@@ -175,14 +175,14 @@ Covers all no-start scenarios including:
 - 10% Other
 
 ### Repair Cost Range:
-- **Best case:** $150-400 (valve or hose only)
-- **Most likely:** $300-800 (valve + hoses + labor)
-- **Worst case:** $1,500-10,000 (turbo and/or engine damage)
+- **Best case:** R2,700-7,200 (valve or hose only)
+- **Most likely:** R5,400-14,400 (valve + hoses + labor)
+- **Worst case:** R27,000-180,000 (turbo and/or engine damage)
 
 ### Prevention Cost:
-- Upgraded bypass valve: $150-250
-- Silicone hose kit: $300-600
-- **Total preventative:** $450-850
+- Upgraded bypass valve: R2,700-4,500
+- Silicone hose kit: R5,400-10,800
+- **Total preventative:** R8,100-15,300
 - **Prevents 90% of these failures**
 
 ---
@@ -281,8 +281,8 @@ If experiencing symptoms:
 For preventative maintenance:
 1. **Read** boost-problems.md for boost system understanding
 2. **Inspect** all boost hoses and connections
-3. **Consider** upgrading to silicone hoses ($300-600)
-4. **Replace** bypass valve preventatively ($150-250)
+3. **Consider** upgrading to silicone hoses (R5,400-10,800)
+4. **Replace** bypass valve preventatively (R2,700-4,500)
 5. **Monitor** for any warning signs (hissing, power loss)
 
 ---

@@ -68,7 +68,7 @@ When your Mini Cooper S R56 won't start, there are several possible causes. This
 
 **Cost:**
 - Jump start: Free
-- New battery: $100-200
+- New battery: R1,800-3,600
 
 ---
 
@@ -94,10 +94,10 @@ When your Mini Cooper S R56 won't start, there are several possible causes. This
 
 **Solutions:**
 - Replace starter motor
-- Parts: $150-300
+- Parts: R2,700-5,400
 - Labor: 2-3 hours
 
-**Cost:** $300-600 total
+**Cost:** R5,400-10,800 total
 
 ---
 
@@ -117,10 +117,10 @@ When your Mini Cooper S R56 won't start, there are several possible causes. This
 **If it starts with wiggling:** Ignition switch or cylinder issue
 
 **Solutions:**
-- Replace ignition switch: $100-200
-- Or replace ignition cylinder: $150-300
+- Replace ignition switch: R1,800-3,600
+- Or replace ignition cylinder: R2,700-5,400
 
-**Cost:** $200-500
+**Cost:** R3,600-9,000
 
 ---
 
@@ -136,8 +136,8 @@ When your Mini Cooper S R56 won't start, there are several possible causes. This
 3. If starts in NEUTRAL: Neutral safety switch issue
 
 **Solutions:**
-- Adjust switch: $50-100
-- Replace switch: $100-200
+- Adjust switch: R900-1,800
+- Replace switch: R1,800-3,600
 
 ---
 
@@ -153,8 +153,8 @@ When your Mini Cooper S R56 won't start, there are several possible causes. This
 3. Should click when pressed
 
 **Solutions:**
-- Adjust switch: $50
-- Replace switch: $50-100
+- Adjust switch: R900
+- Replace switch: R900-1,800
 
 ---
 
@@ -228,7 +228,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - Replace HPFP
-- Cost: $600-1,200
+- Cost: R10,800-21,600
 
 ---
 
@@ -246,7 +246,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - Replace in-tank fuel pump
-- Cost: $300-600
+- Cost: R5,400-10,800
 
 ---
 
@@ -262,8 +262,8 @@ Either **no fuel** or **no spark**
 3. Swap relay with another similar relay (test)
 
 **Solutions:**
-- Replace fuse: $1
-- Replace relay: $10-30
+- Replace fuse: R18
+- Replace relay: R180-540
 
 ---
 
@@ -298,7 +298,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - Replace fuel filter
-- Cost: $50-150
+- Cost: R900-2,700
 
 ---
 
@@ -320,7 +320,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - Replace crank position sensor
-- Cost: $100-250
+- Cost: R1,800-4,500
 
 ---
 
@@ -333,7 +333,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - Replace cam sensor(s)
-- Cost: $150-300 (both sensors)
+- Cost: R2,700-5,400 (both sensors)
 
 ---
 
@@ -349,7 +349,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - Replace all 4 coils (if multiple failed)
-- Cost: $200-400
+- Cost: R3,600-7,200
 
 ---
 
@@ -363,7 +363,7 @@ Either **no fuel** or **no spark**
 
 **Solutions:**
 - ECU repair or replacement
-- Cost: $500-1,500
+- Cost: R9,000-27,000
 
 ---
 
@@ -382,7 +382,7 @@ Either **no fuel** or **no spark**
 **Solutions:**
 - Timing chain replacement minimum
 - Possible engine rebuild if valves hit pistons
-- Cost: $1,500-$8,000+
+- Cost: R27,000-R144,000+
 
 **See:** [Timing Chain Diagnosis](timing-chain-diagnosis.md)
 
@@ -435,7 +435,7 @@ CRANKS BUT WON'T START?
 - Have key reprogrammed
 - Check for aftermarket alarm interference
 
-**Cost:** $50-200
+**Cost:** R900-3,600
 
 ---
 
@@ -454,7 +454,7 @@ CRANKS BUT WON'T START?
 **Solutions:**
 - Clean MAF sensor (try first)
 - Replace MAF sensor
-- Cost: $100-300
+- Cost: R1,800-5,400
 
 ---
 
@@ -484,7 +484,7 @@ CRANKS BUT WON'T START?
 - Reset throttle adaptation
 - Replace throttle body (rare)
 
-**Cost:** $50-500
+**Cost:** R900-9,000
 
 ---
 
@@ -497,7 +497,7 @@ CRANKS BUT WON'T START?
 **Solutions:**
 - Replace HPFP
 
-**Cost:** $600-1,200
+**Cost:** R10,800-21,600
 
 ---
 
@@ -663,17 +663,17 @@ CRANKS BUT WON'T START?
 
 | Cause | DIY Parts | Shop Total |
 |-------|-----------|------------|
-| Dead battery | $100-200 | $150-250 |
-| Battery terminals cleaning | $5 | $50 |
-| Starter motor | $150-300 | $300-600 |
-| Ignition switch | $100-200 | $250-450 |
-| Fuel pump (low pressure) | $150-300 | $400-700 |
-| HPFP | $300-600 | $600-1,200 |
-| Fuel pump relay/fuse | $10-30 | $50-100 |
-| Crank position sensor | $50-100 | $150-300 |
-| Cam position sensors | $100-200 | $250-450 |
-| Ignition coils (all 4) | $100-200 | $300-500 |
-| MAF sensor | $100-250 | $200-400 |
+| Dead battery | R1,800-3,600 | R2,700-4,500 |
+| Battery terminals cleaning | R90 | R900 |
+| Starter motor | R2,700-5,400 | R5,400-10,800 |
+| Ignition switch | R1,800-3,600 | R4,500-8,100 |
+| Fuel pump (low pressure) | R2,700-5,400 | R7,200-12,600 |
+| HPFP | R5,400-10,800 | R10,800-21,600 |
+| Fuel pump relay/fuse | R180-540 | R900-1,800 |
+| Crank position sensor | R900-1,800 | R2,700-5,400 |
+| Cam position sensors | R1,800-3,600 | R4,500-8,100 |
+| Ignition coils (all 4) | R1,800-3,600 | R5,400-9,000 |
+| MAF sensor | R1,800-4,500 | R3,600-7,200 |
 
 ---
 

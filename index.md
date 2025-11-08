@@ -9,6 +9,8 @@ mermaid: true
 
 This comprehensive documentation covers all major systems, components, and diagnostic procedures for the 2008 Mini Cooper S R56 with the N14 1.6L turbocharged engine.
 
+**💰 All prices in South African Rand (R)** - Currency conversion: 1 USD = R18 (based on 2025 average rate of 18.05 ZAR/USD)
+
 ---
 
 ## 📋 Quick Start

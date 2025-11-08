@@ -59,13 +59,13 @@ The bypass valve uses a rubber diaphragm that frequently tears or develops holes
 
 ### Solution:
 **Replace bypass valve**
-- Cost: $80-150 (OEM)
+- Cost: R1,440-2,700 (OEM)
 - Labor: 1 hour DIY, 1-2 hours shop
 - Part #: 11657600890 (OEM BMW)
 
 **Upgrade Options:**
 - Metal diaphragm aftermarket valves
-- GFB DV+ (bolt-on, $200)
+- GFB DV+ (bolt-on, R3,600)
 - Forge motorsport valve
 
 ---
@@ -106,8 +106,8 @@ The bypass valve uses a rubber diaphragm that frequently tears or develops holes
 
 ### Solution:
 **Turbocharger rebuild or replacement**
-- Rebuild: $500-800
-- Replace with new: $800-1,500
+- Rebuild: R9,000-14,400
+- Replace with new: R14,400-27,000
 - Labor: 4-6 hours
 
 ---
@@ -146,8 +146,8 @@ The bypass valve uses a rubber diaphragm that frequently tears or develops holes
 
 ### Solution:
 **Replace or rebuild turbocharger**
-- New turbo: $800-1,500
-- Rebuilt turbo: $500-800
+- New turbo: R14,400-27,000
+- Rebuilt turbo: R9,000-14,400
 - Labor: 4-6 hours
 
 ---
@@ -179,7 +179,7 @@ The bypass valve uses a rubber diaphragm that frequently tears or develops holes
 
 ### Solution:
 **Option 1:** Tighten wastegate arm (temporary)
-**Option 2:** Replace wastegate actuator ($100-200)
+**Option 2:** Replace wastegate actuator (R1,800-3,600)
 **Option 3:** Replace turbocharger if wastegate worn
 
 ---
@@ -225,10 +225,10 @@ Check all boost pipes and connections:
 
 ### Solution:
 **Replace damaged components**
-- Couplers: $20-40 each
-- Clamps: $5-10 each
-- Intercooler pipes: $100-300
-- Intercooler: $200-400
+- Couplers: R360-720 each
+- Clamps: R90-180 each
+- Intercooler pipes: R1,800-5,400
+- Intercooler: R3,600-7,200
 
 ---
 
@@ -394,17 +394,17 @@ The N14 uses plastic and rubber intercooler hoses that are prone to splitting un
 **Immediate Fix:**
 - Replace damaged hose(s)
 - Use new heavy-duty clamps
-- Cost: $50-200 for parts
+- Cost: R900-3,600 for parts
 
 **Recommended Upgrade:**
 - Replace ALL intercooler hoses with silicone kit
 - Much more durable
 - Prevents future failures
-- Cost: $300-600 for complete kit
+- Cost: R5,400-10,800 for complete kit
 
 **If turbo damaged:**
 - Turbo replacement required
-- Add $800-1,500
+- Add R14,400-27,000
 
 **Prevention:**
 - Upgrade to silicone hoses
@@ -469,7 +469,7 @@ The compressor wheel is damaged by foreign objects (debris from air filter, brok
 
 ### Repair:
 **Turbocharger replacement required**
-- New turbo: $800-1,500
+- New turbo: R14,400-27,000
 - Clean entire intake system
 - Replace air filter
 - Check what caused damage
@@ -567,20 +567,20 @@ The wastegate (exhaust bypass valve) controls boost by diverting exhaust around 
 ### Repair:
 
 **Stuck Open - Options:**
-1. **Replace wastegate actuator:** $100-200 + labor
+1. **Replace wastegate actuator:** R1,800-3,600 + labor
 2. **Adjust linkage:** Temporary fix, may work
 3. **Replace vacuum line:** If line is issue
 4. **Replace turbo:** If wastegate mechanism in turbo housing is worn
 
 **Stuck Closed - Options:**
 1. **Clean wastegate valve:** Remove carbon buildup
-2. **Replace boost control solenoid:** $50-150
+2. **Replace boost control solenoid:** R900-2,700
 3. **Replace actuator:** If stuck mechanically
 4. **Replace turbo:** If wastegate cannot be freed
 
 **Labor:** 2-4 hours depending on access
 
-**Total Cost:** $150-300 (actuator/solenoid) or $1,200-2,000 (turbo)
+**Total Cost:** R2,700-5,400 (actuator/solenoid) or R21,600-36,000 (turbo)
 
 ---
 

@@ -119,7 +119,7 @@ The N14 (2007-2010) uses a hydraulic timing chain tensioner that is **known to f
 - Visual inspection of chain, guides, tensioner
 - Check chain stretch with special tool
 
-**Cost:** $200-400 for inspection
+**Cost:** R3,600-7,200 for inspection
 
 ---
 
@@ -169,7 +169,7 @@ COLD START RATTLE?
 
 ### Option 1: Timing Chain Tensioner Only
 **When:** Very early stage, confirmed tensioner only
-**Cost:** $800-1,200
+**Cost:** R14,400-21,600
 **Parts:** Tensioner only
 **Risk:** Chain may already be stretched
 
@@ -179,7 +179,7 @@ COLD START RATTLE?
 
 ### Option 2: Full Timing Chain Kit
 **When:** Any rattling present
-**Cost:** $1,500-2,500
+**Cost:** R27,000-45,000
 **Parts:**
 - Timing chain
 - Tensioner
@@ -190,9 +190,9 @@ COLD START RATTLE?
 **Recommended** - Complete fix
 
 **Additional:** Often done with:
-- Vacuum pump replacement ($200-400 more)
-- Water pump replacement ($200-400 more)
-- Thermostat housing ($100-200 more)
+- Vacuum pump replacement (R3,600-7,200 more)
+- Water pump replacement (R3,600-7,200 more)
+- Thermostat housing (R1,800-3,600 more)
 
 ---
 
@@ -271,7 +271,7 @@ COLD START RATTLE?
 - ❌ Known weak point
 - ⚠️ Can destroy engine
 - ✅ Preventative replacement recommended
-- 💰 $1,500-2,500 for full kit + labor
+- 💰 R27,000-45,000 for full kit + labor
 - 🔧 Major job (8-12 hours)
 - ⏰ Do it before 130k km or at first sign of rattle
 

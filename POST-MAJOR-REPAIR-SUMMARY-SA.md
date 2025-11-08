@@ -109,7 +109,7 @@
 
 **Timing Chain:**
 - [FCP Euro - How to Replace R56 MINI Timing Chain](https://www.fcpeuro.com/blog/how-to-replace-a-mini-r56-timing-chain-assembly)
-- Tools needed: MINI Timing Tool Kit ($279/R5,000)
+- Tools needed: MINI Timing Tool Kit (R5,022/R5,000)
 - Labor: 8-12 hours
 - **YouTube Search:** "N14 timing chain replacement"
 
