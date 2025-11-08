@@ -84,7 +84,7 @@ SUDDEN COMPLETE POWER LOSS?
 
 ```
 OIL CONSUMPTION?
-├─ Losing 1 quart per 1000 miles or more?
+├─ Losing 1 liter per 1,600km or more?
 │  └─ NORMAL for N14 (but monitor closely)
 │     → See: oil-system.md
 │
@@ -278,15 +278,15 @@ CHECK ENGINE LIGHT ON?
 - [ ] Verify oil consumption rate
 
 **Regular Maintenance:**
-- [ ] Oil change every 5,000 miles (0W-40 synthetic)
+- [ ] Oil change every 8,000 km (0W-40 synthetic)
 - [ ] Check oil level weekly
-- [ ] Carbon cleaning every 30,000 miles
-- [ ] Spark plugs every 60,000 miles
+- [ ] Carbon cleaning every 48,000 km
+- [ ] Spark plugs every 96,000 km
 
 **Preventative Replacements:**
-- [ ] Vacuum pump at 80-100k miles
+- [ ] Vacuum pump at 80-160k km
 - [ ] Thermostat housing (at first sign of leak)
-- [ ] Water pump at 80-100k miles
+- [ ] Water pump at 80-160k km
 - [ ] Bypass valve inspection
 
 ---

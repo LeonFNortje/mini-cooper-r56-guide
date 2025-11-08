@@ -286,7 +286,7 @@ TURBO PROBLEM SUSPECTED?
 
 ### DO:
 - ✓ Let engine idle 30 seconds before shutting off (after hard driving)
-- ✓ Change oil every 5,000 miles
+- ✓ Change oil every 8,000 km
 - ✓ Use quality synthetic oil (0W-40)
 - ✓ Let engine warm up before boost
 - ✓ Use 91+ octane fuel

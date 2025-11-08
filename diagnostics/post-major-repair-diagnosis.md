@@ -584,7 +584,7 @@ After major repairs like turbo replacement, ECU replacement, and crankshaft re-e
 ## Related Documentation
 
 **Component Details:**
-- [Complete N14 Component List with Failures](N14-complete-component-failures.md)
+- [Complete N14 Component List with Failures](../engine/N14-COMPLETE-COMPONENT-FAILURES.md)
 - [Engine Components](../engine/N14-engine-components.md)
 - [Turbo System](../turbo-system/turbo-components.md)
 

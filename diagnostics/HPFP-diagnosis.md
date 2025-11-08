@@ -263,7 +263,7 @@ LONG CRANK / HARD START?
 ## After Replacement
 
 ### Break-in:
-- First 100 miles: drive gently
+- First 160 km: drive gently
 - Avoid full throttle
 - Monitor starting behavior
 

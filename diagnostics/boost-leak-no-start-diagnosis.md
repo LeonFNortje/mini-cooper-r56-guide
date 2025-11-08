@@ -449,7 +449,7 @@ One failure leads to another. Most commonly:
 3. If starts: MAF reading incorrect due to boost leak
 
 **If starts in safe mode:**
-- Drive GENTLY to shop (5-10 mph max)
+- Drive GENTLY to shop (8-16 km/h max)
 - Or better: get towed
 
 ### Step 4: Code Reading
@@ -538,11 +538,11 @@ When boost system fails catastrophically, the ECU detects:
 ## Prevention Strategies
 
 ### Regular Maintenance:
-- ✓ Replace bypass valve every 50-60k miles (preventative)
+- ✓ Replace bypass valve every 50-96k km (preventative)
 - ✓ Upgrade to metal diaphragm version
 - ✓ Replace plastic intercooler hoses with silicone
 - ✓ Use quality heavy-duty clamps
-- ✓ Change oil every 5,000 miles (turbo longevity)
+- ✓ Change oil every 8,000 km (turbo longevity)
 
 ### Inspection Schedule:
 **Every oil change:**
@@ -551,7 +551,7 @@ When boost system fails catastrophically, the ECU detects:
 - Look for oil leaks at turbo
 - Listen for unusual turbo sounds
 
-**Every 30k miles:**
+**Every 48k km:**
 - Replace bypass valve (preventative)
 - Inspect intercooler for damage
 - Check wastegate operation

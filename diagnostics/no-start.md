@@ -647,7 +647,7 @@ CRANKS BUT WON'T START?
 
 **Replace Preventatively:**
 - Battery every 4-5 years
-- Spark plugs every 60k miles
+- Spark plugs every 96k km
 - Don't ignore check engine lights
 
 **Warning Signs - Address Immediately:**

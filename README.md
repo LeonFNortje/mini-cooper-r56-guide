@@ -35,9 +35,9 @@ This comprehensive documentation covers all major systems, components, and diagn
    - Very common coolant leak
    - Plastic housing cracks from exhaust heat
    - Causes overheating
-   - [Full Diagnosis Guide →](diagnostics/thermostat-housing-leak.md)
+   - [Full Diagnosis Guide →](diagnostics/overheating.md)
 
-**If you own a 2008 R56 Cooper S, verify the timing chain tensioner has been replaced. If not, budget $1,500-2,500 for this repair ASAP.**
+**If you own a 2008 R56 Cooper S, verify the timing chain tensioner has been replaced. If not, budget R12,000-25,000 for this repair ASAP.**
 
 ---
 
@@ -112,34 +112,34 @@ This comprehensive documentation covers all major systems, components, and diagn
 | 🚫 Hard starting / Won't start | [No Start Diagnosis](diagnostics/no-start.md) or [HPFP Diagnosis](diagnostics/HPFP-diagnosis.md) |
 | 💨 Loss of boost / power | [Boost Problems](diagnostics/boost-problems.md) or [Turbo Diagnosis](diagnostics/turbo-diagnosis.md) |
 | 🌡️ Overheating | [Overheating Diagnosis](diagnostics/overheating.md) |
-| 💧 Coolant leak | [Thermostat Housing](diagnostics/thermostat-housing-leak.md) |
+| 💧 Coolant leak | [Overheating Diagnosis](diagnostics/overheating.md) |
 
 ---
 
-## 🛠️ Maintenance Schedule
+## 🛠️ Maintenance Schedule (South Africa - Kilometers)
 
 ### **Critical for N14 Reliability:**
 
-#### Every 5,000 Miles:
+#### Every 8,000 km:
 - ✅ Engine oil change (0W-40 synthetic)
 - ✅ Oil filter replacement
 - ✅ **Check oil level weekly between changes**
 
-#### Every 30,000 Miles:
-- ✅ Intake valve carbon cleaning
+#### Every 48,000 km:
+- ✅ Intake valve carbon cleaning (walnut blasting)
 - ✅ PCV valve inspection
 - ✅ Air filter replacement
 
-#### Every 60,000 Miles:
+#### Every 96,000 km:
 - ✅ Spark plugs replacement
 - ✅ Ignition coils inspection
 - ✅ Brake fluid flush
 
 #### Preventative Replacements:
 - ✅ **Timing chain tensioner** (if 2007-2009 and not done)
-- ✅ Vacuum pump (80-100k miles)
+- ✅ Vacuum pump (130,000-160,000 km)
 - ✅ Thermostat housing (at first sign of leak)
-- ✅ Water pump (80-100k miles)
+- ✅ Water pump (130,000-160,000 km)
 - ✅ Bypass valve (inspect regularly, cheap insurance)
 
 ---
@@ -157,9 +157,9 @@ This comprehensive documentation covers all major systems, components, and diagn
 **Valve System:** DOHC, 16 valves, Valvetronic
 
 **Performance:**
-- 0-60 mph: 6.9 seconds
-- Top Speed: 140 mph
-- Boost Pressure: 17-18 PSI
+- 0-100 km/h: 7.3 seconds
+- Top Speed: 225 km/h
+- Boost Pressure: 1.2-1.3 bar (17-18 PSI)
 
 ---
 
@@ -188,23 +188,23 @@ This comprehensive documentation covers all major systems, components, and diagn
 
 ---
 
-## 💰 Typical Ownership Costs (Beyond Regular Maintenance)
+## 💰 Typical Ownership Costs - South Africa (Beyond Regular Maintenance)
 
 **Budget for these repairs:**
 
-| Repair | Frequency | Cost Range |
+| Repair | Frequency (km) | Cost Range (Rand) |
 |--------|-----------|------------|
-| Timing chain kit | Once (preventative) | $1,500-2,500 |
-| HPFP replacement | 80-120k miles | $600-1,200 |
-| Carbon cleaning | Every 30k miles | $300-600 |
-| Thermostat housing | 60-100k miles | $180-350 |
-| Bypass valve | 50-80k miles | $150-300 |
-| Water pump | 80-120k miles | $350-700 |
-| Turbo rebuild/replace | 100k+ miles | $800-1,500 |
-| Vacuum pump | 80-120k miles | $300-600 |
+| Timing chain kit | Once (preventative) | R12,000-25,000 |
+| HPFP replacement | 130,000-190,000 km | R6,000-12,000 |
+| Carbon cleaning (walnut blasting) | Every 48,000 km | R3,000-6,000 |
+| Thermostat housing | 96,000-160,000 km | R1,500-3,500 |
+| Bypass valve | 80,000-130,000 km | R1,200-2,500 |
+| Water pump | 130,000-190,000 km | R3,500-7,000 |
+| Turbo rebuild/replace | 160,000+ km | R8,000-15,000 |
+| Vacuum pump | 130,000-190,000 km | R3,000-6,000 |
 
-**Annual maintenance cost (beyond oil changes):** $500-1,500
-**Major repairs over 5 years:** $3,000-6,000
+**Annual maintenance cost (beyond oil changes):** R5,000-15,000
+**Major repairs over 5 years:** R30,000-60,000
 
 ---
 
@@ -260,7 +260,7 @@ This comprehensive documentation covers all major systems, components, and diagn
 2. **Hard starting** → HPFP failure
 3. **Coolant leak left side** → Thermostat housing
 4. **Loss of boost** → Bypass valve
-5. **High oil consumption** → Normal for N14 (1qt/1000mi)
+5. **High oil consumption** → Normal for N14 (up to 1L per 1,600km)
 6. **Check engine light + misfire** → Ignition coils
 7. **Blue smoke** → Turbo seals
 8. **Overheating** → Water pump or thermostat
@@ -398,4 +398,4 @@ This documentation is provided for informational purposes. Always verify informa
 
 **Happy Motoring! 🏁**
 
-*The N14 engine requires attention and care, but with proper maintenance and awareness of its issues, your R56 Cooper S can provide many miles of fun, spirited driving.*
+*The N14 engine requires attention and care, but with proper maintenance and awareness of its issues, your R56 Cooper S can provide many kilometers of fun, spirited driving.*

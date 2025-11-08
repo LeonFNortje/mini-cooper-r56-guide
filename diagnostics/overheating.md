@@ -277,7 +277,7 @@ OVERHEATING?
 
 ### Replace Before Failure:
 - Thermostat housing at first sign of seepage
-- Water pump at 80-100k miles
+- Water pump at 80-160k km
 - All coolant hoses if old/cracking
 
 ### Warning Signs:

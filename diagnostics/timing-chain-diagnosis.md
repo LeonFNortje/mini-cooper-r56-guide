@@ -74,7 +74,7 @@ The N14 (2007-2010) uses a hydraulic timing chain tensioner that is **known to f
 
 **Result:**
 - Oil at MIN or below → **Add oil immediately**
-- Oil consumption high → Monitor every 500 miles
+- Oil consumption high → Monitor every 800 km
 
 **Related:** [Oil System](oil-system.md)
 
@@ -153,7 +153,7 @@ COLD START RATTLE?
 │
 └─ NO rattle, 2008-2009 model
    └─ Preventative replacement recommended
-      → Before 80,000 miles
+      → Before 130,000 km
 ```
 
 ---
@@ -231,7 +231,7 @@ COLD START RATTLE?
 
 ### If You Haven't Replaced Yet:
 1. **Check oil level WEEKLY**
-2. Change oil every 5,000 miles (not 10-15k)
+2. Change oil every 8,000 km (not 10-15k)
 3. Use quality 0W-40 synthetic
 4. Listen for rattle at every start
 5. Budget for replacement
@@ -266,4 +266,4 @@ COLD START RATTLE?
 - ✅ Preventative replacement recommended
 - 💰 $1,500-2,500 for full kit + labor
 - 🔧 Major job (8-12 hours)
-- ⏰ Do it before 80k miles or at first sign of rattle
+- ⏰ Do it before 130k km or at first sign of rattle

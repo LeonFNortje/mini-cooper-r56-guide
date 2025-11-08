@@ -229,7 +229,7 @@
 | 100,000 | 160,000 | High mileage maintenance |
 
 **Oil Consumption:**
-- 1 quart per 1,000 miles = 1 liter per 1,600km (BMW spec - excessive!)
+- 1 liter per 1,600km = 1 liter per 1,600km (BMW spec - excessive!)
 - Acceptable: 1L per 3,000-5,000km
 - Problem: More than 1L per 1,600km
 

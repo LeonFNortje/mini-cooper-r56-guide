@@ -542,7 +542,7 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 
 | Service | Cost | Frequency |
 |---------|------|-----------|
-| Bypass valve replacement | $150-300 | Every 50-60k miles |
+| Bypass valve replacement | $150-300 | Every 50-96k km |
 | Silicone hose upgrade | $500-800 | Once (lifetime upgrade) |
 | Boost leak smoke test | $50-100 | Annually or as needed |
 | Boost pressure test | $50-100 | With any performance issue |
@@ -598,7 +598,7 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 
 ## Boost System Maintenance Schedule
 
-### Every Oil Change (5,000 miles):
+### Every Oil Change (8,000 km):
 - ✓ Visual inspection of all boost pipes
 - ✓ Check clamp tightness
 - ✓ Listen for boost leaks

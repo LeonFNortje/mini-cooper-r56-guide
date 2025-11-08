@@ -77,7 +77,7 @@
 ### 6. **Spark Plugs**
 **Type:** NGK or Bosch
 **Gap:** ~0.028-0.032"
-**Interval:** 60,000 miles
+**Interval:** 96,000 km
 
 **Issues:**
 - Fouling from oil consumption

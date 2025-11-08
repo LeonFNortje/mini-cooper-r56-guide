@@ -127,7 +127,7 @@
 - Catastrophic engine failure
 
 **Prevention:**
-- Replace at 80-100k miles preventatively
+- Replace at 80-160k km preventatively
 
 ---
 
@@ -185,7 +185,7 @@
 
 ### Preventative Replacements:
 - Timing chain tensioner (if not done, do ASAP)
-- Vacuum pump (80-100k miles)
+- Vacuum pump (80-160k km)
 - Thermostat housing (at first sign of leak)
 
 ---
