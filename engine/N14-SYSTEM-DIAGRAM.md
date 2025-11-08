@@ -1,3 +1,8 @@
+---
+title: N14 Engine System Diagrams
+mermaid: true
+---
+
 # N14 Engine System Diagrams
 ## Visual Component Relationships and Data Flow
 

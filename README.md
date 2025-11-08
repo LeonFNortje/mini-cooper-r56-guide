@@ -1,3 +1,8 @@
+---
+title: 2008 Mini Cooper S R56 - N14 Engine Documentation
+mermaid: true
+---
+
 # 2008 Mini Cooper S R56 - N14 Engine Documentation
 
 ## Complete Component Guide and Diagnostic System

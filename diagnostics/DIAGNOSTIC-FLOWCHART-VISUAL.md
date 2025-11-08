@@ -1,3 +1,8 @@
+---
+title: N14 Visual Diagnostic Flowcharts
+mermaid: true
+---
+
 # N14 Visual Diagnostic Flowcharts
 ## Interactive Diagrams for Quick Problem Diagnosis
 
