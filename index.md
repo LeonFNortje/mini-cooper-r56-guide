@@ -42,6 +42,12 @@ flowchart LR
     style E fill:#ff6b6b,color:#fff
     style F fill:#ff6b6b,color:#fff
     style G fill:#ffd43b
+
+    click E "diagnostics/timing-chain-diagnosis.html" "View Timing Chain Diagnosis"
+    click F "diagnostics/boost-leak-no-start-diagnosis.html" "View Boost Leak Diagnosis"
+    click G "diagnostics/HPFP-diagnosis.html" "View HPFP Diagnosis"
+    click H "diagnostics/overheating.html" "View Thermostat/Overheating Guide"
+    click I "engine/components/cylinder-head/04-valve-cover.html" "View Valve Cover Guide"
 ```
 
 **[📊 See Full Interactive Diagrams →](diagnostics/DIAGNOSTIC-FLOWCHART-VISUAL.md)**

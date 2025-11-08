@@ -43,6 +43,14 @@ flowchart TD
     style CarbonBuild fill:#ffd43b,stroke:#fab005
     style Thermostat fill:#74c0fc,stroke:#1c7ed6
     style ValveCover fill:#74c0fc,stroke:#1c7ed6
+
+    click TimingChain "timing-chain-diagnosis.html" "View Timing Chain Diagnosis Guide"
+    click BoostLeak "boost-leak-no-start-diagnosis.html" "View Boost Leak Diagnosis Guide"
+    click HPFP "HPFP-diagnosis.html" "View HPFP Diagnosis Guide"
+    click CarbonBuild "../engine/components/intake-exhaust/04-carbon-buildup-guide.html" "View Carbon Buildup Guide"
+    click ValveCover "../engine/components/cylinder-head/04-valve-cover.html" "View Valve Cover Guide"
+    click Thermostat "overheating.html" "View Overheating/Thermostat Guide"
+    click TurboIssue "turbo-diagnosis.html" "View Turbo Diagnosis Guide"
 ```
 
 ---
@@ -77,6 +85,11 @@ flowchart TD
     style Early fill:#74c0fc,stroke:#1c7ed6
     style Good fill:#51cf66,stroke:#2f9e44,color:#fff
     style Risk fill:#ff6b6b,stroke:#c92a2a,color:#fff
+
+    click Early "timing-chain-diagnosis.html" "View Complete Timing Chain Guide"
+    click Moderate "timing-chain-diagnosis.html" "View Complete Timing Chain Guide"
+    click Severe "timing-chain-diagnosis.html" "View Complete Timing Chain Guide"
+    click Cost "../engine/components/valvetrain-timing/01-timing-chain.html" "View Detailed Component Guide"
 ```
 
 ---
@@ -109,6 +122,11 @@ flowchart TD
     style Marginal fill:#ffd43b,stroke:#fab005
     style Excellent fill:#51cf66,stroke:#2f9e44,color:#fff
     style Good_Idle fill:#51cf66,stroke:#2f9e44,color:#fff
+
+    click Critical "post-major-repair-diagnosis.html" "View Post-Repair Diagnosis Guide"
+    click Marginal "post-major-repair-diagnosis.html" "View Post-Repair Diagnosis Guide"
+    click Low_RPM "../engine/components/lubrication/01-oil-pump.html" "View Oil Pump Component Guide"
+    click Action3 "../engine/components/lubrication/01-oil-pump.html" "View Oil Pump Component Guide"
 ```
 
 ---
