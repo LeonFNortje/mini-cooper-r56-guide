@@ -1,7 +1,18 @@
-# GitHub Pages Configuration
-theme: jekyll-theme-cayman
+# GitHub Pages Configuration with TeXt Theme
+remote_theme: kitian616/jekyll-TeXt-theme
+
+# Site Information
 title: "N14 Mini Cooper S R56 Documentation"
 description: "Complete South Africa specific guide for 2008 Mini Cooper S with N14 engine"
+lang: en
+timezone: Africa/Johannesburg
+
+# Theme Settings
+text_skin: default # default, dark, forest, ocean, chocolate, orange
+highlight_theme: default # default, tomorrow, tomorrow-night, tomorrow-night-eighties, tomorrow-night-blue, tomorrow-night-bright
+
+# Enable Mermaid Diagrams
+mermaid: true
 
 # Markdown Configuration
 markdown: kramdown
@@ -12,10 +23,17 @@ kramdown:
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-relative-links
-  - jekyll-seo-tag
+  - jemoji
 
-# Relative links configuration
-relative_links:
-  enabled: true
-  collections: false
+# Pagination
+paginate: 8
+
+# Author Information (optional)
+author:
+  type: person
+  name: Leon Nortje
+  url: https://github.com/LeonFNortje
