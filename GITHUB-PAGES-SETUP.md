@@ -11,8 +11,8 @@ Your N14 Mini Cooper documentation is now fully configured for GitHub Pages with
 5. ✅ All costs in South African Rand
 6. ✅ Related guides added to all pages (max 3 links each)
 7. ✅ 16 professional Mermaid diagrams created
-8. ✅ Jekyll configuration with Mermaid.js support added
-9. ✅ Custom layout for diagram rendering created
+8. ✅ **TeXt theme with built-in Mermaid support configured**
+9. ✅ Gemfile created for proper GitHub Pages deployment
 
 ## 🚀 Next Steps to Publish
 
@@ -59,11 +59,16 @@ The site is fully mobile-responsive and the Mermaid diagrams will render perfect
 
 ## 🎨 Mermaid Diagrams
 
-The diagrams will now render as beautiful interactive flowcharts instead of text. Examples:
+The diagrams will now render as beautiful interactive flowcharts instead of text. We're using the **Jekyll TeXt theme** which has proven, built-in Mermaid support:
+
+**Features:**
 - Color-coded by urgency (red = critical, yellow = urgent, blue = common)
 - Clickable nodes (where applicable)
 - Zoomable on mobile devices
 - Professional appearance
+- Automatically loads Mermaid.js and initializes diagrams
+
+**Theme Reference:** https://kitian616.github.io/jekyll-TeXt-theme/
 
 ## 🔍 Testing Diagram Rendering
 
@@ -102,9 +107,10 @@ If the Mermaid diagrams still show as text after 5-10 minutes:
 - Go to github.com → New Repository → Name: `mini-cooper-r56`
 
 ### Diagrams show as text
-- Wait 5-10 minutes after enabling Pages
-- Clear browser cache
-- Check that `_layouts/default.html` and `_config.yml` are in the repository
+- Wait 5-10 minutes after enabling Pages (GitHub needs to build the site)
+- Clear browser cache and hard refresh (Ctrl+Shift+R)
+- Verify `_config.yml` shows `mermaid: true` and `remote_theme: kitian616/jekyll-TeXt-theme`
+- Check GitHub Pages build status: Settings → Pages (should show green checkmark)
 
 ## ✨ What's Included
 
