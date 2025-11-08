@@ -18,3 +18,13 @@ For specific code diagnosis, see the relevant component guides:
 
 ## General Diagnosis:
 Use an OBD-II scanner to read codes, then refer to specific component guides for detailed diagnosis.
+
+---
+
+## 🔗 Related Guides
+
+**For check engine light diagnosis:**
+
+1. [Timing Chain Diagnosis](timing-chain-diagnosis.md) - P0016, P0008, P0009 codes
+2. [HPFP Diagnosis](HPFP-diagnosis.md) - P0087, P0088 fuel pressure codes
+3. [Misfire Diagnosis](misfire-diagnosis.md) - P0300-P0304 misfire codes

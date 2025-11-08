@@ -32,3 +32,13 @@
 3. Check for oil in wells
 4. Test ignition coils
 5. Check for carbon buildup (borescope)
+
+---
+
+## 🔗 Related Guides
+
+**For misfire issues:**
+
+1. [Carbon Buildup Guide](../engine/components/intake-exhaust/04-carbon-buildup-guide.md) - Most common cause
+2. [Valve Cover Guide](../engine/components/cylinder-head/04-valve-cover.md) - Oil in spark plug wells
+3. [Check Engine Codes](check-engine-codes.md) - Decode misfire codes

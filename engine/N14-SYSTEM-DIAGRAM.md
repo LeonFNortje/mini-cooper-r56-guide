@@ -412,3 +412,14 @@ graph TB
 5. **Plan Preventive Maintenance** - See what to monitor
 
 **All diagrams render on GitHub desktop, mobile, and GitHub Pages!**
+
+---
+
+## 🔗 Related Guides
+
+**For system diagnostics:**
+
+1. [Visual Diagnostic Flowcharts](../diagnostics/DIAGNOSTIC-FLOWCHART-VISUAL.md) - Problem diagnosis diagrams
+2. [Component Files Index](COMPONENT-FILES-INDEX.md) - Individual component guides
+3. [Post-Major-Repair Guide](../diagnostics/post-major-repair-diagnosis.md) - After major work
+

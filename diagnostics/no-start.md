@@ -715,3 +715,13 @@ CRANKS BUT WON'T START?
 
 **Key Takeaway:**
 Most no-start issues can be diagnosed systematically. Start with the basics (battery, fuel, spark) and work through the checklist. Don't keep trying to start if you hear unusual noises or smell unusual odors.
+
+---
+
+## 🔗 Related Guides
+
+**If your engine won't start:**
+
+1. [HPFP Diagnosis](HPFP-diagnosis.md) - Most common no-start cause (fuel)
+2. [HPFP Component Guide](../engine/components/fuel-injection/01-HPFP.md) - Testing and replacement
+3. [Check Engine Codes](check-engine-codes.md) - Decode error codes

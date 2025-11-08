@@ -868,3 +868,13 @@ Can use as preventative but not substitute for walnut blasting.
 **Vehicle:** 2008 Mini Cooper S R56 N14
 **Units:** Kilometers (km), Rand (R)
 **Related Guides:** See `intake-exhaust/01-intake-manifold.md` for manifold removal procedure
+
+---
+
+## 🔗 Related Guides
+
+**For carbon buildup issues:**
+
+1. [Valve Cover Guide](../cylinder-head/04-valve-cover.md) - PCV system contributes to carbon
+2. [Misfire Diagnosis](../../../diagnostics/misfire-diagnosis.md) - Carbon causes misfires
+3. [Maintenance Schedule](../../../diagnostics/maintenance-schedule-kilometers.md) - When to clean valves

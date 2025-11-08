@@ -20,3 +20,13 @@
 - [Post-Major-Repair Diagnosis](post-major-repair-diagnosis.md)
 
 **Use:** [MASTER DIAGNOSTIC FLOWCHART](MASTER-DIAGNOSTIC-FLOWCHART.md) as starting point
+
+---
+
+## 🔗 Related Guides
+
+**For general engine issues:**
+
+1. [MASTER DIAGNOSTIC FLOWCHART](MASTER-DIAGNOSTIC-FLOWCHART.md) - Start here
+2. [Visual Diagnostic Flowcharts](DIAGNOSTIC-FLOWCHART-VISUAL.md) - Interactive diagrams
+3. [Post-Major-Repair Diagnosis](post-major-repair-diagnosis.md) - After repairs

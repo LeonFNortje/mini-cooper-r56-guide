@@ -22,3 +22,13 @@
 - See: [Misfire Diagnosis](misfire-diagnosis.md)
 
 **For detailed electrical component information, see:** `../electrical/electrical-components.md`
+
+---
+
+## 🔗 Related Guides
+
+**For electrical issues:**
+
+1. [Check Engine Codes](check-engine-codes.md) - Decode sensor codes
+2. [Misfire Diagnosis](misfire-diagnosis.md) - Ignition system problems
+3. [Electrical Components](../electrical/electrical-components.md) - All electrical parts

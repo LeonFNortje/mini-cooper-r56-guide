@@ -736,3 +736,13 @@ Consider **preventative replacement** at 80,000 km even without symptoms if:
 **Vehicle:** 2008 Mini Cooper S R56 N14
 **Units:** Kilometers (km), Rand (R)
 **Next Update:** Add more visual references as available
+
+---
+
+## 🔗 Related Guides
+
+**For timing chain issues:**
+
+1. [Timing Chain Diagnosis](../../../diagnostics/timing-chain-diagnosis.md) - Diagnostic procedures and symptoms
+2. [Oil Pump Guide](../lubrication/01-oil-pump.md) - Oil pressure critical for tensioner
+3. [Post-Major-Repair Guide](../../../diagnostics/post-major-repair-diagnosis.md) - After replacement monitoring

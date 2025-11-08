@@ -23,3 +23,13 @@
    - Age and heat cause failures
 
 **For detailed diagnosis and repair information, see:** [Overheating Diagnosis](overheating.md)
+
+---
+
+## 🔗 Related Guides
+
+**For coolant leak diagnosis:**
+
+1. [Overheating Diagnosis](overheating.md) - Complete cooling system troubleshooting
+2. [Cooling Components](../cooling-system/cooling-components.md) - All cooling parts
+3. [Thermostat Housing Info](thermostat-housing-leak.md) - Most common leak source

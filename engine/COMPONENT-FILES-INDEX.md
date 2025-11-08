@@ -317,3 +317,13 @@ For every component:
 **Vehicle:** 2008 Mini Cooper S R56 N14
 **Units:** Kilometers (km), Rand (R)
 
+
+---
+
+## 🔗 Related Guides
+
+**For comprehensive diagnostics:**
+
+1. [Visual Diagnostic Flowcharts](../diagnostics/DIAGNOSTIC-FLOWCHART-VISUAL.md) - Quick problem diagnosis
+2. [N14 System Diagrams](N14-SYSTEM-DIAGRAM.md) - How components interact
+3. [Post-Major-Repair Guide](../diagnostics/post-major-repair-diagnosis.md) - After repairs

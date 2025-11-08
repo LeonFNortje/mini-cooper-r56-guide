@@ -298,3 +298,13 @@ CHECK ENGINE LIGHT ON?
 - [Cooling System](../cooling-system/cooling-components.md)
 - [Electrical System](../electrical/electrical-components.md)
 - [Transmission](../transmission/transmission-components.md)
+
+---
+
+## 🔗 Related Guides
+
+**For visual diagnostics:**
+
+1. [Visual Diagnostic Flowcharts](DIAGNOSTIC-FLOWCHART-VISUAL.md) - Interactive Mermaid diagrams
+2. [N14 System Diagrams](../engine/N14-SYSTEM-DIAGRAM.md) - Component relationships
+3. [Component Files Index](../engine/COMPONENT-FILES-INDEX.md) - Navigate by component

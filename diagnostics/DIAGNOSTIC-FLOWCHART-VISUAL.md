@@ -331,3 +331,13 @@ These Mermaid diagrams render perfectly on:
 - ✅ Any modern browser
 
 **Tip:** On mobile, diagrams can be zoomed and panned for easy viewing.
+
+---
+
+## 🔗 Related Guides
+
+**For detailed diagnosis:**
+
+1. [MASTER DIAGNOSTIC FLOWCHART](MASTER-DIAGNOSTIC-FLOWCHART.md) - Text-based comprehensive guide
+2. [N14 System Diagrams](../engine/N14-SYSTEM-DIAGRAM.md) - Technical system architecture
+3. [Post-Major-Repair Guide](post-major-repair-diagnosis.md) - After major work monitoring

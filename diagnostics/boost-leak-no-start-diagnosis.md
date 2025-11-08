@@ -661,3 +661,13 @@ When boost system fails catastrophically, the ECU detects:
 
 **Key Takeaway:**
 **This symptom pattern requires immediate attention. The "won't start" occurs when the ECU enters protection mode or when mechanical damage prevents operation. Early intervention (stopping at first sign of hissing) can save thousands of dollars in repairs.**
+
+---
+
+## 🔗 Related Guides
+
+**For boost leak diagnosis:**
+
+1. [Boost Problems Guide](boost-problems.md) - Comprehensive boost system diagnosis
+2. [Turbo Diagnosis](turbo-diagnosis.md) - Turbo system troubleshooting
+3. [Post-Major-Repair Guide](post-major-repair-diagnosis.md) - After turbo replacement

@@ -867,3 +867,13 @@ Since you've had crankshaft work done, follow this protocol:
 **Units:** Kilometers (km), Rand (R)
 **CRITICAL FOR:** Post-crankshaft work monitoring
 **Related:** See `diagnostics/post-major-repair-diagnosis.md` Part 3
+
+---
+
+## 🔗 Related Guides
+
+**For oil pump/pressure issues:**
+
+1. [Oil System Diagnosis](../../../diagnostics/oil-system.md) - Complete oil system troubleshooting
+2. [Post-Major-Repair Guide](../../../diagnostics/post-major-repair-diagnosis.md) - Critical after crankshaft work
+3. [Timing Chain Guide](../valvetrain-timing/01-timing-chain.md) - Tensioner needs oil pressure

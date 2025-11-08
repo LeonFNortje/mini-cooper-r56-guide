@@ -292,3 +292,13 @@ OVERHEATING?
 - [Cooling System Components](../cooling-system/cooling-components.md)
 - [Thermostat Housing Leak](thermostat-housing-leak.md)
 - [Coolant Leak Diagnosis](coolant-leaks.md)
+
+---
+
+## 🔗 Related Guides
+
+**If you're experiencing overheating:**
+
+1. [Cooling System Components](../cooling-system/cooling-components.md) - All cooling system parts
+2. [Thermostat Housing Info](thermostat-housing-leak.md) - Most common coolant leak
+3. [Post-Major-Repair Guide](post-major-repair-diagnosis.md) - After cooling system repairs

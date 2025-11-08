@@ -22,3 +22,13 @@ This guide covers:
 - Coolant leak diagnosis
 - Water pump issues
 - Complete cooling system troubleshooting
+
+---
+
+## 🔗 Related Guides
+
+**For thermostat housing issues:**
+
+1. [Overheating Diagnosis](overheating.md) - Complete diagnosis and repair
+2. [Coolant Leaks](coolant-leaks.md) - All coolant leak sources
+3. [Cooling Components](../cooling-system/cooling-components.md) - Cooling system parts

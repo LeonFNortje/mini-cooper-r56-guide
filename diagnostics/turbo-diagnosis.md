@@ -620,3 +620,13 @@ The wastegate (exhaust bypass valve) controls boost by diverting exhaust around 
 - [Engine Components](../engine/N14-engine-components.md)
 - [Check Engine Codes](check-engine-codes.md)
 - [No Start Diagnosis](no-start.md)
+
+---
+
+## 🔗 Related Guides
+
+**If you're experiencing turbo issues:**
+
+1. [Boost Problems Guide](boost-problems.md) - Comprehensive boost system diagnosis
+2. [Boost Leak + No Start](boost-leak-no-start-diagnosis.md) - Critical boost leak diagnosis
+3. [Carbon Buildup Guide](../engine/components/intake-exhaust/04-carbon-buildup-guide.md) - Can cause boost issues

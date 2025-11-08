@@ -350,3 +350,13 @@ LONG CRANK / HARD START?
 - [Fuel System Components](../fuel-system/fuel-components.md)
 - [No Start Diagnosis](no-start.md)
 - [Engine Components](../engine/N14-engine-components.md)
+
+---
+
+## 🔗 Related Guides
+
+**If you're experiencing HPFP issues:**
+
+1. [HPFP Component Guide](../engine/components/fuel-injection/01-HPFP.md) - Detailed failure modes, testing, replacement guide
+2. [No Start Diagnosis](no-start.md) - Won't start troubleshooting
+3. [Fuel Pressure Testing](fuel-pressure-test.md) - How to test fuel pressure

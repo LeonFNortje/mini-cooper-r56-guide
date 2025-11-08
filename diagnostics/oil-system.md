@@ -32,3 +32,13 @@
 ---
 
 **For comprehensive oil system diagnostics, refer to the component-specific guides linked above.**
+
+---
+
+## 🔗 Related Guides
+
+**For oil system issues:**
+
+1. [Oil Pump Component Guide](../engine/components/lubrication/01-oil-pump.md) - Detailed oil pump diagnosis
+2. [Valve Cover Guide](../engine/components/cylinder-head/04-valve-cover.md) - Most common oil leak
+3. [Post-Major-Repair Guide](post-major-repair-diagnosis.md) - Oil pressure monitoring

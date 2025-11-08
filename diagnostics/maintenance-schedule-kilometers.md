@@ -40,3 +40,13 @@
 **See Also:**
 - [Post-Major-Repair Diagnosis](post-major-repair-diagnosis.md) - Break-in schedule after major work
 - [Carbon Buildup Guide](../engine/components/intake-exhaust/04-carbon-buildup-guide.md) - Cleaning schedule
+
+---
+
+## 🔗 Related Guides
+
+**For maintenance planning:**
+
+1. [Carbon Buildup Guide](../engine/components/intake-exhaust/04-carbon-buildup-guide.md) - 48k km cleaning
+2. [Post-Major-Repair Guide](post-major-repair-diagnosis.md) - Break-in schedule
+3. [Oil Pump Guide](../engine/components/lubrication/01-oil-pump.md) - Oil change importance

@@ -676,3 +676,13 @@ Any opening in the pressurized intake system between turbo outlet and intake val
 - ⚠️ Turbo sounds different
 
 **Act immediately to prevent catastrophic failure and expensive repairs!**
+
+---
+
+## 🔗 Related Guides
+
+**If you're experiencing boost problems:**
+
+1. [Turbo Diagnosis](turbo-diagnosis.md) - Complete turbo system diagnosis
+2. [Boost Leak + No Start](boost-leak-no-start-diagnosis.md) - Critical boost leak scenarios
+3. [Turbo Components](../turbo-system/turbo-components.md) - All boost system parts

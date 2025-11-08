@@ -897,3 +897,13 @@ HPFP is a wear item that will eventually fail. However, you can extend its life:
 **Related Guides:**
 - See `fuel-injection/02-low-pressure-pump.md` for in-tank pump
 - See `fuel-injection/03-fuel-injectors.md` for injector issues
+
+---
+
+## 🔗 Related Guides
+
+**For HPFP issues:**
+
+1. [HPFP Diagnosis Guide](../../../diagnostics/HPFP-diagnosis.md) - Testing and diagnosis procedures
+2. [No Start Diagnosis](../../../diagnostics/no-start.md) - Won't start troubleshooting
+3. [Fuel Pressure Testing](../../../diagnostics/fuel-pressure-test.md) - How to test system pressure

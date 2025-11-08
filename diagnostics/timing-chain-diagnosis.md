@@ -267,3 +267,13 @@ COLD START RATTLE?
 - 💰 $1,500-2,500 for full kit + labor
 - 🔧 Major job (8-12 hours)
 - ⏰ Do it before 130k km or at first sign of rattle
+
+---
+
+## 🔗 Related Guides
+
+**If you're experiencing timing chain issues:**
+
+1. [Timing Chain Component Guide](../engine/components/valvetrain-timing/01-timing-chain.md) - Complete failure modes, costs, DIY guide
+2. [Oil System Diagnosis](oil-system.md) - Low oil pressure can cause timing chain failure
+3. [Post-Major-Repair Guide](post-major-repair-diagnosis.md) - After timing chain replacement monitoring

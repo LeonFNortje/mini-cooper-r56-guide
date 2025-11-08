@@ -985,3 +985,13 @@ Example sequence (11 bolts):
 **Related Guides:**
 - See `lubrication/04-pcv-system.md` for detailed PCV info
 - See `intake-exhaust/04-carbon-buildup-guide.md` for catch can benefits
+
+---
+
+## 🔗 Related Guides
+
+**For valve cover issues:**
+
+1. [Carbon Buildup Guide](../intake-exhaust/04-carbon-buildup-guide.md) - PCV failure causes carbon
+2. [Oil System Diagnosis](../../../diagnostics/oil-system.md) - Oil leaks and consumption
+3. [Misfire Diagnosis](../../../diagnostics/misfire-diagnosis.md) - Oil in spark plug wells

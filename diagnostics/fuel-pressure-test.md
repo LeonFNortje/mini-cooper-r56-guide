@@ -22,3 +22,13 @@
 - Fuel filter clogged
 
 **Complete testing procedures:** [HPFP Diagnosis](HPFP-diagnosis.md)
+
+---
+
+## 🔗 Related Guides
+
+**For fuel pressure testing:**
+
+1. [HPFP Component Guide](../engine/components/fuel-injection/01-HPFP.md) - Complete HPFP diagnosis
+2. [HPFP Diagnosis](HPFP-diagnosis.md) - Testing procedures
+3. [No Start Diagnosis](no-start.md) - Fuel-related no-start

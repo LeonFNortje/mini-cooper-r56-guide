@@ -19,3 +19,13 @@
 - OEM parts recommended for daily driving
 
 **See:** `../transmission/transmission-components.md` for details
+
+---
+
+## 🔗 Related Guides
+
+**For clutch problems:**
+
+1. [Transmission Components](../transmission/transmission-components.md) - Clutch details
+2. [Transmission Problems](transmission-problems.md) - General transmission issues
+3. [Maintenance Schedule](maintenance-schedule-kilometers.md) - Inspection intervals

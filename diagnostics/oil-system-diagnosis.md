@@ -16,3 +16,13 @@
 
 ### Oil Consumption:
 → [Post-Repair Guide](post-major-repair-diagnosis.md)
+
+---
+
+## 🔗 Related Guides
+
+**For detailed oil diagnosis:**
+
+1. [Oil Pump Guide](../engine/components/lubrication/01-oil-pump.md) - Pressure and pump issues
+2. [Valve Cover Guide](../engine/components/cylinder-head/04-valve-cover.md) - Oil leaks
+3. [Oil System Overview](oil-system.md) - Quick reference

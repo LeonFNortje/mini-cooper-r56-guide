@@ -623,3 +623,13 @@ After major repairs like turbo replacement, ECU replacement, and crankshaft re-e
 **Version:** 1.0 - South Africa Specific
 **Distance Units:** Kilometers (km)
 **Currency:** South African Rand (R)
+
+---
+
+## 🔗 Related Guides
+
+**After major repairs:**
+
+1. [Oil Pump Component Guide](../engine/components/lubrication/01-oil-pump.md) - Critical for post-crankshaft monitoring
+2. [Timing Chain Component Guide](../engine/components/valvetrain-timing/01-timing-chain.md) - After timing chain work
+3. [Maintenance Schedule](maintenance-schedule-kilometers.md) - Break-in and ongoing schedule
